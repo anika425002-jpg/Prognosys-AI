@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1_qFMQYZnIVHN-JQY1d74NirdwsdPtAUp
 """
 
-pip install pandas scikit-learn streamlit numpy
+
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
