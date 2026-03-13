@@ -148,5 +148,3 @@ stroke_model.fit(X_train, y_train)
 pickle.dump(stroke_model, open("stroke_model.pkl","wb"))
 
 print("Stroke model saved")
-
-!streamlit run app.py
